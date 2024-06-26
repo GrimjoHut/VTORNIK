@@ -1,4 +1,4 @@
-#include "shared.h"
+#include "database.h"
 #include <stdio.h>
 
 // Additional functionalities for levels table
